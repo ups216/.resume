@@ -77,10 +77,11 @@
 - 项目官网：[https://github.com/idcf-boat-house](https://github.com/idcf-boat-house)
 
 **🤖 MCP Agent Hub - Model Context Protocol代理平台**
-- 基于微软MCP (Model Context Protocol) 的开源代理分享平台
-- 为开发者提供发现、分享和部署MCP代理的统一平台
-- 支持多种AI模型和工具的无缝集成
-- 降低AI代理开发和部署的技术门槛
+- 基于开放标准MCP (Model Context Protocol) 的代理分享和发现平台
+- MCP是连接AI应用与数据源和工具的标准化协议，类似AI应用的"USB-C接口"
+- 提供MCP服务器发现、分享和部署的统一生态平台
+- 支持Claude Desktop、IDE和AI工具等MCP客户端应用
+- 帮助开发者构建可重用的MCP服务器组件，实现数据源和工具的标准化集成
 - 官网：[https://mcpagents.dev](https://mcpagents.dev)
 
 ### **知名外企研发中心 | GM & 资深软件架构师 | 2005-2015年**
@@ -164,7 +165,8 @@
 - AI驱动软件工程解决方案
 - 大模型应用开发与部署
 - 企业AI应用基础设施建设
-- Model Context Protocol (MCP) 代理开发与平台建设
+- Model Context Protocol (MCP) 服务器开发与生态平台建设
+- MCP标准化集成：连接LLM与数据源和工具的开放协议实践
 
 ### **项目管理方法**
 - Scrum、Kanban敏捷开发
