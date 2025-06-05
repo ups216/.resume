@@ -10,12 +10,13 @@
 - **姓名：** 徐磊
 - **出生日期：** 1977年2月16日
 - **性别：** 男
-- **联系方式：** 
+- **相关链接：** 
   - 公司官网：[https://leansoftx.com](https://leansoftx.com)
   - IDCF官网：[https://idcf.org.cn](https://idcf.org.cn)
   - AISE产品官网：[https://aise.chat](https://aise.chat)
   - SmartIDE官网：[https://smartide.cn](https://smartide.cn)
   - MCP Agent Hub：[https://mcpagents.dev](https://mcpagents.dev)
+  - Code2Docs.ai：[https://code2docs.ai](https://code2docs.ai)
 - **开源项目：** 
   - SmartIDE开源项目：[hhttps://github.com/OpenAtomFoundation/SmartIDE](https://github.com/OpenAtomFoundation/SmartIDE)
   - MCP Agent Hub开源项目：[https://mcpagents.dev](https://mcpagents.dev)
@@ -83,6 +84,14 @@
 - 支持Claude Desktop、IDE和AI工具等MCP客户端应用
 - 帮助开发者构建可重用的MCP服务器组件，实现数据源和工具的标准化集成
 - 官网：[https://mcpagents.dev](https://mcpagents.dev)
+
+**📚 Code2Docs.ai - AI驱动的智能文档生成平台**
+- 基于AI技术的代码文档自动生成解决方案
+- 支持多种编程语言的智能代码分析和文档生成
+- 提供代码注释、API文档、技术文档的自动化创建
+- 帮助开发团队提升文档质量和开发效率
+- 降低文档维护成本，确保代码与文档的同步更新
+- 官网：[https://code2docs.ai](https://code2docs.ai)
 
 ### **知名外企研发中心 | GM & 资深软件架构师 | 2005-2015年**
 - 带领研发团队负责多个大型产品和项目的研发工作
@@ -167,6 +176,7 @@
 - 企业AI应用基础设施建设
 - Model Context Protocol (MCP) 服务器开发与生态平台建设
 - MCP标准化集成：连接LLM与数据源和工具的开放协议实践
+- AI驱动的智能文档生成与代码分析自动化
 
 ### **项目管理方法**
 - Scrum、Kanban敏捷开发
